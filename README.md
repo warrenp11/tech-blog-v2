@@ -11,3 +11,5 @@
     * [x] express-session
     * [x] connect-session-sequelize
 * [] Set Up Express server
+* [] Models
+    * [x] User model
