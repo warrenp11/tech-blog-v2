@@ -22,6 +22,7 @@ Post.init(
       type: DataTypes.STRING,
       allowNull: false,
       validate: {
+        // may need to eliminate this validation
         len: [1]
       }
     },
